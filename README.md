@@ -42,3 +42,4 @@ games
 
 
 ## Enjoy!
+<p><img aling="center"src="https://raw.githubusercontent.com/arxhr007/Gamer-tux/main/photos/screenshot.png"/></p>
