@@ -11,7 +11,7 @@ if [[ $(id -u) -ne 0 ]] ; then
 	printf "\n\n"
 	exit
 fi
-printf "NOTE: you also need install necessary packages in requirements.txt\n"
+printf "NOTE: you also need install necessary packages\n"
 for i in 3 2 1
 do
 	echo "staring installation process in ${i}" ; 
