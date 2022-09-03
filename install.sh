@@ -17,16 +17,16 @@ do
 	echo "staring installation process in ${i}" ; 
 	sleep 1
 done
-apt-get install nudoku
-apt install bastet
-apt-get install nsnake
-apt-get install greed
-apt-get install pacman4consol
-apt-get install moon-buggy
-apt-get install ninvaders
-apt-get install zangband
-apt-get install nethack-console
-apt install bsdgames
+apt-get install nudoku -y
+apt install bastet -y
+apt-get install nsnake -y
+apt-get install greed -y
+apt-get install pacman4consol -y
+apt-get install moon-buggy -y
+apt-get install ninvaders -y
+apt-get install zangband -y
+apt-get install nethack-console -y
+apt install bsdgames -y
 printf "\n\n" 
 rm /usr/bin/games &>/dev/null
 cp games.sh /usr/bin/games
