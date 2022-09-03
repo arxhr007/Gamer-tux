@@ -7,16 +7,16 @@ if [[ $(id -u) -ne 0 ]] ; then
 	exit
 fi
 rm /usr/bin/games &>/dev/null
-apt purge nudoku
-apt purge bastet
-apt purge nsnake
-apt purge greed
-apt purge pacman4consol
-apt purge moon-buggy
-apt purge ninvaders
-apt purge zangband
-apt purge nethack-console
-apt purge bsdgames
+apt purge nudoku -y
+apt purge bastet -y
+apt purge nsnake -y
+apt purge greed -y
+apt purge pacman4consol -y
+apt purge moon-buggy -y
+apt purge ninvaders -y
+apt purge zangband -y
+apt purge nethack-console -y
+apt purge bsdgames -y
 apt clean
 apt autoremove
 printf "\nuninstalled successfully!\n"
