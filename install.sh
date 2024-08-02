@@ -32,4 +32,5 @@ rm /usr/bin/games &>/dev/null
 cp games.sh /usr/bin/games
 chmod +x /usr/bin/games
 printf "\n\ninstalled successfully!"
+printf "\nexecute \" games \" to start"
 
