@@ -1,6 +1,7 @@
 <p align="center" ><img src="https://raw.githubusercontent.com/arxhr007/Gamer-tux/main/photos/logo.png" data-canonical-src="https://raw.githubusercontent.com/arxhr007/Gamer-tux/main/photos/logo.png" width="450" height="400" /></p>
 <h1 align="center">PLAY GAMES ON LINUX TERMINAL!</h1>
 <hr>
+<em><h5 align="center">(Author - arxhr007)</h5></em>
 <em><h5 align="center">(Programming Language - Shell Script)</h5></em>
 <p align="center">
 <a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/arxhr007/Gamer-tux?style=for-the-badge"></a>
