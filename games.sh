@@ -1,3 +1,4 @@
+#!/bin/bash
 lis=("exit1" "nudoku" "bastet" "nsnake" "greed" "ppt" "moon-buggy" "ninvaders" "zangband" "nethack-console" "phantasia" "worm" "quiz" "gomoku" "wump" "bcd" "adventure" "hangman" "mille" "wargames" "hack" "number" "worms" "cribbage" "go-fish" "rain" "canfield" "boggle" "arithmetic" "monop" "robots" "snake" "atc" "sail" "pacman4console" "primes" "battlestar" "hunt" "trek" "backgammon" "dab")
 
 exit1 () {
